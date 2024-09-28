@@ -57,12 +57,12 @@ function EmployeeList() {
   return (
     <>
     <nav className="navbar navbar-expand-lg navbar-light bg-light">
-    <div className="container-fluid">
-      <Link className="navbar-brand">
-        <img src="https://via.placeholder.com/50" alt="Logo" width="30" height="30" className="d-inline-block align-text-top"/>
-      </Link>
-    </div>
-  </nav>
+                    <div className="container-fluid">
+                      <Link className="navbar-brand">
+                        <img src="https://www.dealsdray.com/wp-content/uploads/2023/11/logo_B2R.png" alt="Logo" width="80" height="50" className="d-inline-block align-text-top"/>
+                      </Link>
+                    </div>
+                </nav>
   <nav className="navbar navbar-expand-lg navbar-dark bg-dark">
     <div className="container-fluid">
       <div className="navbar-collapse collapse show">
